@@ -56,7 +56,7 @@ Areas of interest include:
   <img src="https://streak-stats.demolab.com?user=SEU_USERNAME&hide_border=true" />
 </p>
 
-> Replace `SEU_USERNAME` with your GitHub username.
+> Replace `davidogral` with your GitHub username.
 
 ---
 
