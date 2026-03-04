@@ -48,8 +48,8 @@ Areas of interest include:
 ## GitHub Metrics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&hide_border=true&theme=default" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&hide_border=true&theme=default" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=davidogral&show_icons=true&hide_border=true&theme=default" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidogral&layout=compact&hide_border=true&theme=default" />
 </p>
 
 <p align="center">
