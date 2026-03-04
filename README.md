@@ -1,99 +1,70 @@
-# davispecia
-Davi Specia
+<!-- ============================================ -->
+<!--                Davi Specia                   -->
+<!-- ============================================ -->
 
-"No hay banda." — Mulholland Drive
-Mas aqui tem código.
+<h1 align="center">Davi Specia</h1>
 
- Sobre mim
+<p align="center">
+  Developer • Cinema Enthusiast • Rock Listener
+</p>
 
-Desenvolvedor movido por curiosidade, estética e profundidade.
-Acredito que código, assim como cinema, é sobre narrativa, estrutura e impacto.
+<p align="center">
+  <i>Code is structure. Cinema is structure. Everything else is implementation.</i>
+</p>
 
-Se arquitetura é direção, então cada projeto precisa de:
+---
 
-visão
+## About
 
-ritmo
+Desenvolvedor orientado a arquitetura, clareza e profundidade.
 
-atmosfera
+Acredito que bons sistemas seguem a mesma lógica de um grande filme:
+ritmo, intenção, atmosfera e impacto duradouro.
 
-e um final memorável
+---
 
- Cinema como referência de arquitetura
+## Cinema as Reference
 
-Meus filmes favoritos moldam como eu penso software:
+Meus filmes favoritos moldam como penso software:
 
- Cidadão Kane — Estrutura narrativa inovadora → arquitetura não-linear e múltiplas perspectivas.
+| Filme | Influência em Arquitetura |
+|-------|---------------------------|
+| Cidadão Kane | Estruturas não-lineares e múltiplas perspectivas |
+| Vertigo | Complexidade controlada e camadas bem definidas |
+| Blade Runner | Futurismo funcional com humanidade |
 
- Vertigo — Camadas psicológicas → sistemas com profundidade e complexidade controlada.
+Sistemas bem construídos devem envelhecer como clássicos.
 
- Blade Runner — Futurismo + humanidade → tecnologia com propósito.
+---
 
-Código bom é aquele que sobrevive ao tempo.
-Como um clássico.
+## Soundtrack While Coding
 
- Rock como combustível
+Pearl Jam  
+Creedence Clearwater Revival  
+Pink Floyd  
+Jimi Hendrix  
 
-Quando estou programando, provavelmente está tocando:
+Código também tem ritmo.  
+Arquitetura também tem silêncio.
 
- Pearl Jam
+---
 
- Creedence Clearwater Revival
+## Preferred Languages
 
- Pink Floyd
+| Linguagem | Por quê |
+|-----------|--------|
+| Python | Clareza e poder de abstração |
+| Dart | Estrutura moderna e escalável |
+| Ruby | Elegância e expressividade |
 
- Jimi Hendrix
+---
 
-Porque código também tem ritmo.
-E às vezes precisa de um solo.
+## Development Philosophy
 
- Linguagens Preferidas
-# Python — clareza e poder
-import this
-// Dart — fluidez e arquitetura moderna
-void main() => print("Elegância escalável");
-# Ruby — poesia orientada a objetos
-puts "Simplicidade sofisticada"
-
-Stack favorita:
-
- Python
-
- Dart
-
- Ruby
-
- Filosofia de Desenvolvimento
-
-Clean Code acima de tudo
-
-Arquitetura antes de hype
-
-Performance com propósito
-
-Sistemas que contam uma história
-
- Atualmente
-
-Explorando arquitetura de sistemas
-
-Projetos envolvendo visão computacional
-
-Construindo coisas que misturam engenharia e criatividade
-
- Conecte-se
-
-Se você gosta de:
-
-discutir arquitetura como se fosse roteiro
-
-debater se Deckard é ou não replicante
-
-ou falar sobre a melhor fase do rock
-
-Estamos na mesma sintonia.
-
-“All those moments will be lost in time, like tears in rain.”
-— Roy Batty, em Blade Runner
-
-Mas bons projetos não.
+```python
+def build_system():
+    vision = True
+    architecture = "clean"
+    performance = "intentional"
+    complexity = "controlled"
+    return "software that lasts"
