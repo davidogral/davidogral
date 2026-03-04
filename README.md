@@ -53,7 +53,7 @@ Areas of interest include:
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USERNAME&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=davidogral&hide_border=true" />
 </p>
 
 > Replace `davidogral` with your GitHub username.
