@@ -5,66 +5,78 @@
 <h1 align="center">Davi Specia</h1>
 
 <p align="center">
-  Developer • Cinema Enthusiast • Rock Listener
+  Software Developer
 </p>
 
 <p align="center">
-  <i>Code is structure. Cinema is structure. Everything else is implementation.</i>
+  Python • Dart • Ruby
 </p>
 
 ---
 
-## About
+## Profile
 
-Desenvolvedor orientado a arquitetura, clareza e profundidade.
+Software developer focused on clean architecture, scalability and maintainable systems.  
+Experience building structured, well-documented and performance-oriented solutions.
 
-Acredito que bons sistemas seguem a mesma lógica de um grande filme:
-ritmo, intenção, atmosfera e impacto duradouro.
+Areas of interest include:
 
----
-
-## Cinema as Reference
-
-Meus filmes favoritos moldam como penso software:
-
-| Filme | Influência em Arquitetura |
-|-------|---------------------------|
-| Cidadão Kane | Estruturas não-lineares e múltiplas perspectivas |
-| Vertigo | Complexidade controlada e camadas bem definidas |
-| Blade Runner | Futurismo funcional com humanidade |
-
-Sistemas bem construídos devem envelhecer como clássicos.
+- System Architecture  
+- Data & Computer Vision  
+- Backend Engineering  
+- Scalable Application Design  
 
 ---
 
-## Soundtrack While Coding
+## Technical Stack
 
-Pearl Jam  
-Creedence Clearwater Revival  
-Pink Floyd  
-Jimi Hendrix  
+### Primary Languages
 
-Código também tem ritmo.  
-Arquitetura também tem silêncio.
+- Python  
+- Dart  
+- Ruby  
 
----
+### Core Principles
 
-## Preferred Languages
-
-| Linguagem | Por quê |
-|-----------|--------|
-| Python | Clareza e poder de abstração |
-| Dart | Estrutura moderna e escalável |
-| Ruby | Elegância e expressividade |
+- Clean Code  
+- SOLID  
+- Performance Awareness  
+- Scalable Design Patterns  
 
 ---
 
-## Development Philosophy
+## GitHub Metrics
 
-```python
-def build_system():
-    vision = True
-    architecture = "clean"
-    performance = "intentional"
-    complexity = "controlled"
-    return "software that lasts"
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&hide_border=true&theme=default" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&hide_border=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SEU_USERNAME&hide_border=true" />
+</p>
+
+> Replace `SEU_USERNAME` with your GitHub username.
+
+---
+
+## Selected Influences
+
+### Cinema
+
+- Citizen Kane  
+- Vertigo  
+- Blade Runner  
+
+### Music
+
+- Pearl Jam  
+- Creedence Clearwater Revival  
+- Pink Floyd  
+- Jimi Hendrix  
+
+---
+
+## Contact
+
+Open to collaboration on well-structured and technically challenging projects.
