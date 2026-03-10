@@ -26,11 +26,13 @@ CTO, analista de dados e desenvolvedor de IA. Fundador da Aluga.ix, focado em tr
 `Python` · `Pandas` · `NumPy` · `SQL` · `Power BI` · `Dash` · `PyTorch` · `TensorFlow` · `Keras` · `Flutter (Dart)` · `HTML/CSS/JS`
 
 ## 📊 Painel de Acesso & Atividade
-![Visits Badge](https://komarev.com/ghpvc/?username=davidogral&style=flat&color=0e75b6)
+![Profile views](https://komarev.com/ghpvc/?username=davidogral&color=0e75b6&style=flat)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidogral&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidogral&layout=compact&theme=default)
-![Streak](https://streak-stats.demolab.com/?user=davidogral&theme=default)
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davidogral&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=360" alt="GitHub Streak" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=davidogral&show_icons=true&theme=transparent&hide_border=true&card_width=360&cache_seconds=7200" alt="GitHub Stats" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidogral&layout=compact&langs_count=8&theme=transparent&hide_border=true&card_width=320&cache_seconds=7200" alt="Top Langs" height="170">
+</p>
 
 ## Como contribuir ou falar comigo
 Se tiver ideias, oportunidades ou quiser trocar uma ideia sobre dados, IA e produtos, me manda um e-mail em **davi.specia@gmail.com**.
