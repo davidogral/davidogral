@@ -3,8 +3,8 @@
 CTO, analista de dados e desenvolvedor de IA. Fundador da Aluga.ix, focado em transformar dados em produtos digitais e decisões melhores.
 
 - 📍 Toledo, Paraná — Brasil  
-- 🎓 Bacharelado em Inteligência Artificial (em andamento)
-- Founder & CTO Aluga.ic (alugaix.com.br)
+- 🎓 Bacharelado em Inteligência Artificial | 3º Período
+- 💻 Founder & CTO Aluga.ix (alugaix.com.br)
 - 📧 davi.specia@gmail.com  
 
 ## O que faço
@@ -25,8 +25,21 @@ CTO, analista de dados e desenvolvedor de IA. Fundador da Aluga.ix, focado em tr
 ## Tecnologias que mais uso
 `Python` · `Pandas` · `NumPy` · `SQL` · `Power BI` · `Dash` · `PyTorch` · `TensorFlow` · `Keras` · `Flutter (Dart)` · `HTML/CSS/JS`
 
+## 📊 Painel de Acesso & Atividade
+![Visits Badge](https://komarev.com/ghpvc/?username=davidogral&style=flat&color=0e75b6)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidogral&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidogral&layout=compact&theme=default)
+![Streak](https://streak-stats.demolab.com/?user=davidogral&theme=default)
+
 ## Como contribuir ou falar comigo
 Se tiver ideias, oportunidades ou quiser trocar uma ideia sobre dados, IA e produtos, me manda um e-mail em **davi.specia@gmail.com**.
 
 ---
-Este README foi preparado para o repositório de perfil `davidogral/davidogral` no GitHub.
+<div align="center">
+
+![Frase que muda sozinha](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=0088cc&center=true&width=520&lines=A+inova%C3%A7%C3%A3o+%C3%A9+um+esporte+de+equipe;Dados+guiam%2C+produto+decide;Automatize+o+%C3%B3bvio%2C+inove+no+resto;Pequenos+deploys%2C+grandes+impactos)
+
+<!-- Este README foi preparado para o repositório de perfil `davidogral/davidogral` no GitHub. -->
+
+</div>
