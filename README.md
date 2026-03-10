@@ -31,7 +31,6 @@ CTO, analista de dados e desenvolvedor de IA. Fundador da Aluga.ix, focado em tr
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=davidogral&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=340" alt="GitHub Streak" height="170">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=davidogral&theme=github_dark" alt="GitHub Stats Overview" height="170">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=davidogral&theme=github_dark" alt="Top Languages por Repositório" height="170">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=davidogral&theme=github_dark" alt="Linguagens mais usadas por commits" height="170">
 </p>
 
