@@ -1,50 +1,32 @@
-# Davi Specia — Solutions Architect & AI Engineer
+# Olá, eu sou o Davi Specia 👋
 
-> Construo produtos e arquiteturas escalaveis com IA aplicada, do discovery ao deploy em nuvem.
+CTO, analista de dados e desenvolvedor de IA. Fundador da Aluga.ix, focado em transformar dados em produtos digitais e decisões melhores.
 
-- Base: Brasil | remoto global  
-- Founder & CTO @ Aluga.ix (PropTech)  
-- Alvo: Solutions Architect | Pre-Sales | Cloud Consultant  
-- davi.specia@gmail.com | 🔗 [alugaix.com.br](https://www.alugaix.com.br)
+- 📍 Toledo, Paraná — Brasil  
+- 🎓 Bacharelado em Inteligência Artificial (em andamento)
+- Founder & CTO Aluga.ic (alugaix.com.br)
+- 📧 davi.specia@gmail.com  
 
-## Pitch em 5 segundos
-- Traduzo necessidade de negocio em APIs e fluxos claros.
-- Encaixo IA e dados onde trazem ROI real (não hype).
-- Entrego em ciclos curtos com observabilidade desde o dia 1.
-
-## Stack atual
-- Cloud: AWS | GCP | Azure
-- Back-end: Python | Ruby | Dart
-- Front: Flutter
-- Dados/IA: ML classico, BI (Power BI, Dash), pipelines e modelagem
+## O que faço
+- Arquitetura e modelagem de bancos de dados (SQL, normalização, pipelines de dados)
+- ETL/ELT e análise de dados com Python, Pandas e NumPy
+- Dashboards e KPIs com Power BI e Dash
+- Machine Learning clássico e Deep Learning (PyTorch, TensorFlow/Keras)
+- Desenvolvimento backend em Python e Dart; frontend com Flutter, HTML/CSS/JS
+- Liderança técnica, definição de roadmap e processos ágeis (Scrum)
 
 ## Projetos em destaque
-- **GASense (2025)** — sensores + modelos preditivos para detectar anomalias de gas em tempo real.
-- **Voxia** — hardware assistivo com IA para melhorar acessibilidade de pessoas com deficiencia visual.
-- **E-Mote** — totem para monitorar bem-estar estudantil e gerar insights institucionais.
-- **Peso na Granja** — visao computacional para controle e pesagem de suinos em campo.
+- **Peso na Granja** — app completo para controle de suínos com dashboards e modelo de IA
+- **Voxia** — solução assistiva integrando hardware e IA para pessoas com deficiência visual
+- **Dashboard Alugaix (Dash)** — KPIs e relatórios automatizados para operação interna
+- **E-Mote** — totem físico + dashboards para monitorar bem-estar emocional de estudantes
+- **GASense** — monitoramento IoT de gases com detecção preditiva de anomalias
 
-## Metrica autoatualizada
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davispecia&show_icons=true&theme=default&hide=stars&rank_icon=percentile)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davispecia&layout=compact&theme=default&card_width=320)
+## Tecnologias que mais uso
+`Python` · `Pandas` · `NumPy` · `SQL` · `Power BI` · `Dash` · `PyTorch` · `TensorFlow` · `Keras` · `Flutter (Dart)` · `HTML/CSS/JS`
 
-## Como trabalho
-- Pré-vendas tecnica: converso com negocio e já desenho integracao/API.
-- Arquitetura pragmatica: simples primeiro, escala quando os sinais aparecem.
-- Observabilidade e CI/CD desde o inicio.
-- Documentacao curta, decisao registrada.
-
-## Roadmap de aprendizado (agora)
-- English upgrade para fluencia em calls globais.
-- LLM ops: guardrails, evals e automacao de prompts em prod.
-- Custos e finops em arquiteturas multi-cloud.
-
-## Contato rapido
-- Email: davi.specia@gmail.com  
-- Calendly/agenda: substitua aqui se usar.  
-- CV: [PDF](./curriculo.pdf)
+## Como contribuir ou falar comigo
+Se tiver ideias, oportunidades ou quiser trocar uma ideia sobre dados, IA e produtos, me manda um e-mail em **davi.specia@gmail.com**.
 
 ---
-
-> Troque `davispecia` nas imagens se seu usuario GitHub for outro.  
-> Tema: plain, sem firulas; ajuste fontes/cores se quiser dark.
+Este README foi preparado para o repositório de perfil `davidogral/davidogral` no GitHub.
