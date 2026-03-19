@@ -25,7 +25,7 @@ CTO, analista de dados e desenvolvedor de IA. Fundador da Aluga.ix, focado em tr
 ## Tecnologias que mais uso
 `Python` · `Pandas` · `NumPy` · `SQL` · `Power BI` · `Dash` · `PyTorch` · `TensorFlow` · `Keras` · `Flutter (Dart)` · `HTML/CSS/JS`
 
-## 📊 Painel de Acesso & Atividade
+##  Painel de Acesso & Atividade
 ![Profile views](https://komarev.com/ghpvc/?username=davidogral&color=0e75b6&style=flat)
 
 <p align="left">
